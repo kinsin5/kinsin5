@@ -7,3 +7,5 @@ Currently working on SQL courses: UDEMY and LEARNSQL
 Here will be posting DATA projects and college stuff
 
 [My Hackerrank](https://www.hackerrank.com/profile/jakobgrob9)
+
+![image](https://github.com/user-attachments/assets/544bb8fe-22ae-4ed6-b903-ccd16f931074)
