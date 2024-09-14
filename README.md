@@ -2,7 +2,7 @@
 
 I'm master data junior analyst and CS student, getting familiar with DA skills.
 
-Currently working on SQL courses: UDEMY and LEARNSQL
+Currently working on SQL courses: [cs50 harvard sql course](https://cs50.harvard.edu/sql/2024/)
 
 Here will be posting DATA projects and college stuff
 
