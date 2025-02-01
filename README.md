@@ -1,6 +1,6 @@
 # Hi there 
 
-I'm master masdter data junior analyst and CS student.
+I'm master data junior analyst and CS student.
 
 Currently working on my PowerBi, Python and SQL skills.
 
