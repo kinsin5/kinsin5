@@ -1,13 +1,15 @@
 # Hi there 
 
-I'm master data junior analyst and CS student, getting familiar with DA skills.
+I'm master masdter data junior analyst and CS student.
 
-Currently working on SQL courses: [CS50 Harvard SQL course](https://cs50.harvard.edu/sql/2024/)
-and practicing python so with: [50 exercises](https://www.practicepython.org/exercise/2014/04/25/12-list-ends.html) so I can start pandas and data web data scraping
+Currently working on my PowerBi, Python and SQL skills.
 
-Here will be posting DATA projects and college stuff
+TODO:
+* working on SQL courses: [CS50 Harvard SQL course](https://cs50.harvard.edu/sql/2024/)
+* practicing python so with: [50 exercises](https://www.practicepython.org/exercise/2014/04/25/12-list-ends.html)
 
-[My Hackerrank](https://www.hackerrank.com/profile/jakobgrob9)
+Here will be posting DATA projects and college stuff.
+
 
 
 
