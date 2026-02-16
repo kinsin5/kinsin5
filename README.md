@@ -1,15 +1,25 @@
-# Hi there 
+# Hi there 👋
 
-I'm data viz/analyst and CS student.
+## About Me
 
-Currently working on ETL process: GUS API with Python (pandas, requests) + postgresSQL + viz on PowerBi
+I'm a **Data Analyst** passionate about transforming data into actionable insights and building robust analytics solutions.
 
-TODO:
-* finishing on SQL courses: [CS50 Harvard SQL course](https://cs50.harvard.edu/sql/2024/)
-* practicing python so with: [50 exercises](https://www.practicepython.org/exercise/2014/04/25/12-list-ends.html)
+### What I Do
+- Build and maintain end-to-end reporting solutions in **Power BI**
+- Design optimized **data models** and write complex **DAX** calculations
+- Fix data quality issues and optimize model performance for production environments
 
-Here will be posting DATA projects and college stuff.
+### Currently Learning
+I'm actively expanding my technical skillset to move towards **data engineering**:
+- **Python** for data processing and automation
+- **SQL** for advanced data manipulation
+- **Microsoft Fabric** - working with Notebooks, semantic link labs, and Power BI REST API
+- Building complete analytics pipelines from ingestion to visualization
 
+### Recent Projects
+- **open-meteo** - Working with weather data APIs and analysis
 
+### Goals
+Moving beyond traditional BI into building complete data pipelines - handling everything from data ingestion and transformation through to final analytics delivery.
 
-
+Feel free to connect or check out my repositories to see what I'm working on!
